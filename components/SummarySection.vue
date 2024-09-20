@@ -8,7 +8,11 @@
             <v-text>
                 <p class="text-h4 text-blue-darken-4">About Me</p>
                 <p class="text-h2 font-weight-bold">I Develop System that Works. </p>
-                <p>With over three years of expreince.</p>
+                <p>Dedicated Full Stack Developer with 3+ years of industry experience. Proven track record in designing
+                    and
+                    implementing responsive web and mobile applications with a focus on user
+                    experience and best practices. Passionate about coding, creating innovative
+                    solutions, and continuous learning</p>
                 <v-divider></v-divider>
             </v-text>
         </v-col>
