@@ -142,6 +142,7 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Senior Frontend
                             Developer</h5>
                     </a>
+                    <p class="text-white"><a href="https://nathandigital.com/">Nathan Digital</a></p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological
                         order.
@@ -151,16 +152,15 @@
                     <div class="w-2 bg-slate-300 h-64"></div>
                 </div>
                 <div class="md:col-span-2">
-                    <p class="text-slate-400 text-lg"><span><a href="https://nathandigital.com/">Nathan
-                                Digital</a></span> August 2024 - Present</p>
+                    <p class="text-slate-400 text-lg"> August 2024 - Present</p>
                 </div>
             </div>
 
             <!-- Second Row -->
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
                 <div class="md:col-span-2 md:col-start-4">
-                    <p class="text-slate-400 text-lg"><span><a href="https://zuri-labs.vercel.app/">Zuri Labs
-                                Africa</a></span> Feb 2024 - Aug 2024</p>
+                    <p class="text-slate-400 text-lg">Feb 2024
+                        - Aug 2024</p>
                 </div>
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
                     <div class="w-2 bg-slate-300 h-64"></div>
@@ -171,6 +171,7 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fullstack
                             Developer</h5>
                     </a>
+                    <p class="text-white"><a href="https://zuri-labs.vercel.app/">Zuri Labs Africa</a></p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Developed and maintained full stack web applications using Laravel, Vue.js, and Nuxt.js.
                     </p>
@@ -185,6 +186,7 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fullstack
                             Developer</h5>
                     </a>
+                    <p class="text-white"><a href="https://goatmentor.tech/">Goatmentor Technologies</a></p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Developed and maintained full stack web applications using Laravel, Vue.js, and Nuxt.js.
                         Collaborated with UI/UX developers to craft user-friendly applications.
@@ -194,15 +196,14 @@
                     <div class="w-2 bg-slate-300 h-64"></div>
                 </div>
                 <div class="md:col-span-2">
-                    <p class="text-slate-400 text-lg"><span><a href="https://goatmentor.tech/">Goatmentor
-                                Technologies</a></span> April 2022 - Feb 2024</p>
+                    <p class="text-slate-400 text-lg"> April 2022 - Feb 2024</p>
                 </div>
             </div>
 
             <!-- Fourth Row -->
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
                 <div class="md:col-span-2 md:col-start-4">
-                    <p class="text-slate-400 text-lg"><span>Zalego Institute of Technology</span> May 2019 - Aug 2019
+                    <p class="text-slate-400 text-lg"> May 2019 - Aug 2019
                     </p>
                 </div>
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
@@ -214,10 +215,31 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Web Developer
                             Intern</h5>
                     </a>
+                    <p class="text-white">Zalego Institute of Technology</p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         I created e-commerce applications using Vanilla PHP and gained great knowledge in programming.
                     </p>
                 </div>
+            </div>
+        </div>
+
+        <div class="mt-10">
+            <div class="flex justify-center">
+                <div class="text-center">
+                    <div class="text-slate-400 text-lg">TOOLS</div>
+                    <div class="font-extrabold text-5xl text-white">Skills</div>
+                </div>
+            </div>
+            <div class="m-5 grid md:grid-cols-6 grid-cols-2 gap-4">
+                <img src="/assets/img/php.svg" alt="" class="h-24">
+                <img src="/assets/img/javascript.svg" alt="" class="h-24">
+                <img src="/assets/img/node.svg" alt="" class="h-24 bg-green-300 rounded-md">
+                <img src="/assets/img/laravel.svg" alt="" class="h-24">
+                <img src="/assets/img/vue.svg" alt="" class="h-24 bg-green-400 rounded-md">
+                <img src="/assets/img/nuxt.svg" alt="" class="h-24">
+                <img src="/assets/img/tailwind.svg" alt="" class="h-24">
+                <img src="/assets/img/mongo.svg" alt="" class="h-24">
+                <img src="/assets/img/mysql.svg" alt="" class="h-24">
             </div>
         </div>
 
