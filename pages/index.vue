@@ -135,9 +135,9 @@
             </div>
 
             <!-- First Row -->
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5 ">
                 <div
-                    class="md:col-start-3 md:col-span-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    class="md:col-start-3 md:col-span-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 min-w-64">
                     <a href="#">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Senior Frontend
                             Developer</h5>
@@ -159,8 +159,8 @@
 
             <!-- Second Row -->
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
-                <div class="hidden md:contents md:col-span-2">
-                    <p class="text-slate-400 text-lg md:col-start-4 md:col-span-5">Feb 2024
+                <div class="hidden col-start-4 md:flex col-span-2">
+                    <p class="text-slate-400 text-lg  md:col-span-5">Feb 2024
                         - Aug 2024</p>
                 </div>
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
@@ -189,6 +189,8 @@
                             Developer</h5>
                     </a>
                     <p class="text-white"><a href="https://goatmentor.tech/">Goatmentor Technologies</a></p>
+                    <p class="text-slate-400 text-lg md:hidden"> April 2022 - Feb 2024</p>
+
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Developed and maintained full stack web applications using Laravel, Vue.js, and Nuxt.js.
                         Collaborated with UI/UX developers to craft user-friendly applications.
@@ -198,15 +200,14 @@
                     <div class="w-2 bg-slate-300 h-64"></div>
                 </div>
                 <div class="md:col-span-2">
-                    <p class="text-slate-400 text-lg"> April 2022 - Feb 2024</p>
+                    <p class="text-slate-400 text-lg hidden md:flex"> April 2022 - Feb 2024</p>
                 </div>
             </div>
 
             <!-- Fourth Row -->
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
                 <div class="md:col-span-2 md:col-start-4">
-                    <p class="text-slate-400 text-lg"> May 2019 - Aug 2019
-                    </p>
+                    <p class="hidden md:flex text-slate-400 text-lg"> May 2019 - Aug 2019</p>
                 </div>
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
                     <div class="w-2 bg-slate-300 h-64"></div>
@@ -218,6 +219,7 @@
                             Intern</h5>
                     </a>
                     <p class="text-white">Zalego Institute of Technology</p>
+                    <p class="md:hidden text-slate-400 text-lg"> May 2019 - Aug 2019</p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         I created e-commerce applications using Vanilla PHP and gained great knowledge in programming.
                     </p>
