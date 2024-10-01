@@ -143,7 +143,8 @@
                             Developer</h5>
                     </a>
                     <p class="text-white"><a href="https://nathandigital.com/">Nathan Digital</a></p>
-                    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    <p class="md:hidden text-slate-400 text-lg"> August 2024 - Present</p>
+                    <p class="md:col-span-3 mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological
                         order.
                     </p>
@@ -151,15 +152,15 @@
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
                     <div class="w-2 bg-slate-300 h-64"></div>
                 </div>
-                <div class="md:col-span-2">
-                    <p class="text-slate-400 text-lg"> August 2024 - Present</p>
+                <div class="hidden md:contents md:col-span-12">
+                    <p class="text-slate-400 text-lg md:col-span-5"> August 2024 - Present</p>
                 </div>
             </div>
 
             <!-- Second Row -->
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4 mt-5">
-                <div class="md:col-span-2 md:col-start-4">
-                    <p class="text-slate-400 text-lg">Feb 2024
+                <div class="hidden md:contents md:col-span-2">
+                    <p class="text-slate-400 text-lg md:col-start-4 md:col-span-5">Feb 2024
                         - Aug 2024</p>
                 </div>
                 <div class="hidden md:flex justify-center items-center md:col-span-1">
@@ -171,6 +172,7 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fullstack
                             Developer</h5>
                     </a>
+                    <p class="text-slate-400 text-lg md:hidden">Feb 2024 - Aug 2024</p>
                     <p class="text-white"><a href="https://zuri-labs.vercel.app/">Zuri Labs Africa</a></p>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                         Developed and maintained full stack web applications using Laravel, Vue.js, and Nuxt.js.
